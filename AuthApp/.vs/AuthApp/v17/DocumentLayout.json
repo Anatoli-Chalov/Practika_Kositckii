@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\practika\\authapp\\authapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\practika\\authapp\\authapp\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\practika\\authapp\\authapp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|d:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\practika\\authapp\\authapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\AuthApp\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthApp\\RegisterWindow.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\AuthApp\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "AuthApp\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:01:46.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterWindow.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\AuthApp\\RegisterWindow.xaml",
+              "RelativeDocumentMoniker": "AuthApp\\RegisterWindow.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\AuthApp\\RegisterWindow.xaml",
+              "RelativeToolTip": "AuthApp\\RegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T12:58:09.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\AuthApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AuthApp\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\AuthApp\\MainWindow.xaml",
+              "RelativeToolTip": "AuthApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T12:23:33.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\AuthApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthApp\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0434\u043B\u044F \u0432\u0438\u0437\u0443\u0430\u043B\u043A\u0438\\Practika\\AuthApp\\AuthApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AuthApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA4wFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:23:32.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
