@@ -71,5 +71,6 @@
                 </Button>
             </StackPanel>
         </Border>
+        <Image Margin="0,-10,329,279" Source="/Новый проект.png" Stretch="Fill"/>
     </Grid>
 </Window>

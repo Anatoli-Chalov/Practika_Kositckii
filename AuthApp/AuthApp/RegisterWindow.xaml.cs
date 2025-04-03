@@ -21,10 +21,17 @@ namespace AuthApp
             string password = PasswordBox.Password;
             string confirmPassword = ConfirmPasswordBox.Password;
 
-            // Валидация
-            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+            // Валидация email
+            if (!username.Contains("@") || !username.Contains("."))
             {
-                MessageBox.Show("Заполните все поля!", "Ошибка",
+                MessageBox.Show("Введите корректный email!", "Ошибка",
+                    MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            if (string.IsNullOrEmpty(password))
+            {
+                MessageBox.Show("Введите пароль!", "Ошибка",
                     MessageBoxButton.OK, MessageBoxImage.Error);
                 return;
             }
@@ -41,7 +48,7 @@ namespace AuthApp
 
             if (_users.Any(u => u.Username == username))
             {
-                MessageBox.Show("Пользователь с таким логином уже существует!", "Ошибка",
+                MessageBox.Show("Пользователь с таким email уже существует!", "Ошибка",
                     MessageBoxButton.OK, MessageBoxImage.Error);
                 UsernameTextBox.Clear();
                 UsernameTextBox.Focus();

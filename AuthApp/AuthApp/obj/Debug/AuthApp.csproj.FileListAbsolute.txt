@@ -14,3 +14,4 @@ D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.Cor
 D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\AuthApp.exe
 D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\AuthApp.pdb
 D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\RegisterWindow.g.cs
+D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\RegisterWindow.baml

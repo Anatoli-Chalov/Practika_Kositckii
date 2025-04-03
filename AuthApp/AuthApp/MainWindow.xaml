@@ -80,5 +80,9 @@
                 </TextBlock>
             </StackPanel>
         </Border>
+        <Image Height="100" Width="100" Margin="150,152,150,132"/>
+        <Image Margin="0,0,329,319" Source="/Новый проект.png" Stretch="Fill" RenderOptions.BitmapScalingMode="HighQuality"/>
+
+
     </Grid>
 </Window>
