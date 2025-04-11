@@ -6,16 +6,12 @@ namespace AuthApp
 {
     public partial class MainWindow : Window
     {
-        private List<User> users = new List<User>
-        {
-            new User { Username = "chalovad@bk.ru", Password = "qwerty" },
-            new User { Username = "mihasikhastal@gmail.com", Password = "ytrewq" },
-            new User { Username = "chalovtolya@gmail.com", Password = "zxcvb" }
-        };
+        private List<User> users;
 
         public MainWindow()
         {
             InitializeComponent();
+            users = JsonDataService.LoadUsers();
             UsernameTextBox.Focus();
         }
 
@@ -55,7 +51,7 @@ namespace AuthApp
             if (user != null)
             {
                 ShowSuccessMessage($"Добро пожаловать, {username}!");
-                // Здесь можно открыть основное окно приложения
+                JsonDataService.SaveUsers(users);
             }
             else
             {

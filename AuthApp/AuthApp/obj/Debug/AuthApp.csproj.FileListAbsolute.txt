@@ -15,3 +15,23 @@ D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\AuthApp.exe
 D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\AuthApp.pdb
 D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\RegisterWindow.g.cs
 D:\для визуалки\Practika\AuthApp\AuthApp\obj\Debug\RegisterWindow.baml
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\bin\Debug\AuthApp.exe.config
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\bin\Debug\AuthApp.exe
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\bin\Debug\AuthApp.pdb
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\RegisterWindow.g.cs
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp_MarkupCompile.cache
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp_MarkupCompile.lref
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\RegisterWindow.baml
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.g.resources
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.Properties.Resources.resources
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.Up2Date
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.exe
+C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.pdb

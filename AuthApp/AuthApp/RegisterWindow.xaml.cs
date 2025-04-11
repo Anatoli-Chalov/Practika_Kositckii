@@ -6,7 +6,7 @@ namespace AuthApp
 {
     public partial class RegisterWindow : Window
     {
-        private List<User> _users;
+        private readonly List<User> _users;
 
         public RegisterWindow(List<User> users)
         {
@@ -21,7 +21,6 @@ namespace AuthApp
             string password = PasswordBox.Password;
             string confirmPassword = ConfirmPasswordBox.Password;
 
-            // Валидация email
             if (!username.Contains("@") || !username.Contains("."))
             {
                 MessageBox.Show("Введите корректный email!", "Ошибка",
@@ -55,8 +54,8 @@ namespace AuthApp
                 return;
             }
 
-            // Регистрация нового пользователя
             _users.Add(new User { Username = username, Password = password });
+            JsonDataService.SaveUsers(_users);
 
             MessageBox.Show("Регистрация прошла успешно!", "Успех",
                 MessageBoxButton.OK, MessageBoxImage.Information);
