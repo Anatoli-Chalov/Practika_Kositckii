@@ -10,5 +10,13 @@
   {
     "Username": "qwerty@bk.ru",
     "Password": "qwerty"
+  },
+  {
+    "Username": "12345@bk.ru",
+    "Password": "12345"
+  },
+  {
+    "Username": "whysky@gmail.com",
+    "Password": "Dididi"
   }
 ]

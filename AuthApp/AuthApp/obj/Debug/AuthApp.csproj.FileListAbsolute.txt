@@ -35,3 +35,45 @@ C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.cspr
 C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.Up2Date
 C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.exe
 C:\Users\Admin\Desktop\ \Cod C\MDK 01.01\AuthApp\AuthApp\obj\Debug\AuthApp.pdb
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\AuthApp.exe.config
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\AuthApp.exe
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\AuthApp.pdb
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Buffers.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Memory.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\RegisterWindow.g.cs
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp_MarkupCompile.cache
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp_MarkupCompile.lref
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\RegisterWindow.baml
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp.g.resources
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp.Properties.Resources.resources
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp.csproj.Up2Date
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp.exe
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\AuthApp.pdb
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\Backet.g.cs
+C:\Users\Admin\source\repos\!!\AuthApp\AuthApp\obj\Debug\Backet.baml

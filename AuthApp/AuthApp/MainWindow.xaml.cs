@@ -4,11 +4,11 @@ using System.Collections.Generic;
 
 namespace AuthApp
 {
-    public partial class MainWindow : Window
+    public partial class mainWindow : Window
     {
         private List<User> users;
 
-        public MainWindow()
+        public mainWindow()
         {
             InitializeComponent();
             users = JsonDataService.LoadUsers();
