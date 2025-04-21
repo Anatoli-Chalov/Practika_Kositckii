@@ -50,7 +50,14 @@ namespace AuthApp
 
             if (user != null)
             {
-                ShowSuccessMessage($"Добро пожаловать, {username}!");
+                // Открываем окно корзины после успешной авторизации
+                var basketWindow = new Backet();
+                basketWindow.Show();
+                
+                // Закрываем текущее окно авторизации
+                this.Close();
+                
+                // Сохраняем пользователей (если нужно)
                 JsonDataService.SaveUsers(users);
             }
             else
@@ -65,12 +72,6 @@ namespace AuthApp
                 MessageBoxButton.OK, MessageBoxImage.Error);
             PasswordBox.Clear();
             PasswordBox.Focus();
-        }
-
-        private void ShowSuccessMessage(string message)
-        {
-            MessageBox.Show(message, "Успех",
-                MessageBoxButton.OK, MessageBoxImage.Information);
         }
     }
 

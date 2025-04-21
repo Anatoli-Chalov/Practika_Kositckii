@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\backet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|c:\\users\\admin\\source\\repos\\!!\\authapp\\authapp\\backet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\backet.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|c:\\users\\admin\\source\\repos\\!!\\authapp\\authapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\backet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\backet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -23,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|c:\\users\\admin\\source\\repos\\!!\\authapp\\authapp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\backet.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\backet.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\backet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\backet.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BD3BD98-51F8-4B47-B2BF-5A46EF7A731E}|AuthApp\\AuthApp.csproj|C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\authapp\\registerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -97,11 +97,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 820,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\App.xaml.cs",
               "RelativeDocumentMoniker": "AuthApp\\App.xaml.cs",
@@ -130,25 +130,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.g.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\obj\\Debug\\MainWindow.g.cs",
-              "RelativeDocumentMoniker": "AuthApp\\obj\\Debug\\MainWindow.g.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\obj\\Debug\\MainWindow.g.cs",
-              "RelativeToolTip": "AuthApp\\obj\\Debug\\MainWindow.g.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T14:25:33.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Backet.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\Backet.xaml.cs",
               "RelativeDocumentMoniker": "AuthApp\\Backet.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\Backet.xaml.cs",
               "RelativeToolTip": "AuthApp\\Backet.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T14:23:43.353Z"
             },
@@ -166,32 +154,30 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AuthApp\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\MainWindow.xaml",
               "RelativeToolTip": "AuthApp\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-02T12:23:33.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T12:23:33.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AuthApp\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "AuthApp\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T12:23:32.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T12:23:32.093Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AuthApp\\MainWindow.xaml",
@@ -199,12 +185,11 @@
               "RelativeToolTip": "AuthApp\\MainWindow.xaml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T14:30:34.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T14:30:34.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\App.xaml",
               "RelativeDocumentMoniker": "AuthApp\\App.xaml",
@@ -217,6 +202,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "RegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\RegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AuthApp\\RegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\RegisterWindow.xaml.cs",
+              "RelativeToolTip": "AuthApp\\RegisterWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:01:46.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.g.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\obj\\Debug\\MainWindow.g.cs",
+              "RelativeDocumentMoniker": "AuthApp\\obj\\Debug\\MainWindow.g.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\obj\\Debug\\MainWindow.g.cs",
+              "RelativeToolTip": "AuthApp\\obj\\Debug\\MainWindow.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:25:33.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\App.config",
               "RelativeDocumentMoniker": "AuthApp\\App.config",
@@ -224,12 +233,11 @@
               "RelativeToolTip": "AuthApp\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-17T14:35:32.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T14:35:32.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "AuthApp\\Properties\\AssemblyInfo.cs",
@@ -241,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Resources.resx",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\Properties\\Resources.resx",
               "RelativeDocumentMoniker": "AuthApp\\Properties\\Resources.resx",
@@ -252,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Resources.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "AuthApp\\Properties\\Resources.Designer.cs",
@@ -264,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Backet.g.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\Backet.g.cs",
               "RelativeDocumentMoniker": "AuthApp\\Backet.g.cs",
@@ -284,18 +292,6 @@
               "RelativeToolTip": "AuthApp\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-02T12:58:09.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RegisterWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\RegisterWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AuthApp\\RegisterWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\!!\\AuthApp\\AuthApp\\RegisterWindow.xaml.cs",
-              "RelativeToolTip": "AuthApp\\RegisterWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T13:01:46.162Z"
             },
             {
               "$type": "Document",
