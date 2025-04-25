@@ -4,11 +4,11 @@ using System.Collections.Generic;
 
 namespace AuthApp
 {
-    public partial class mainWindow : Window
+    public partial class LoginWindow : Window
     {
         private List<User> users;
 
-        public mainWindow()
+        public LoginWindow()
         {
             InitializeComponent();
             users = JsonDataService.LoadUsers();
@@ -51,7 +51,7 @@ namespace AuthApp
             if (user != null)
             {
                 // Открываем окно корзины после успешной авторизации
-                var basketWindow = new Backet();
+                var basketWindow = new BacketWindow();
                 basketWindow.Show();
                 
                 // Закрываем текущее окно авторизации

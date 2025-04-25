@@ -89,14 +89,13 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="Backet.g.cs" />
     <Compile Include="Backet.xaml.cs">
       <DependentUpon>Backet.xaml</DependentUpon>
     </Compile>
     <Compile Include="JsonDataService.cs" />
     <Compile Include="Model\BasketItem.cs" />
+    <Compile Include="Model\MainWindowViewModel.cs" />
     <Compile Include="Model\Product.cs" />
-    <Compile Include="Model\UserRole.cs" />
     <Compile Include="Model\Users.cs" />
     <Compile Include="RegisterWindow.xaml.cs">
       <DependentUpon>RegisterWindow.xaml</DependentUpon>

@@ -4,68 +4,97 @@
         "qty": 9,
         "name": "lada aura",
         "category": "автомобиль",
-        "price":2.814.000
+        "price": 2814000
     },
     {
         "id": 1,
         "qty": 6,
         "name": "Toyta Land Cruiser 200",
         "category": "автомобиль",
-        "price": 4.500.000
+        "price": 4500000
     },
     {
         "id": 2,
         "qty": 5,
         "name": "BMW M3",
         "category": "автомобиль",
-        "price": 8.600.000
+        "price": 8600000
+    },
     {
         "id": 3,
         "qty": 7,
         "name": "Audi Q8",
         "category": "автомобиль",
-        "price": 6.390.000
+        "price": 6390000
     },
     {
         "id": 4,
         "qty": 3,
         "name": "Volvo XC90",
-        "category": "автомобил",
-        "price": 15.420.000
+        "category": "автомобиль",
+        "price": 15420000
     },
     {
         "id": 5,
         "qty": 9,
         "name": "Subaru XV",
         "category": "автомобиль",
-        "price": 2.300.000
+        "price": 2300000
     },
     {
         "id": 6,
         "qty": 3,
         "name": "Land Rover Range Rover Sport D250 3",
         "category": "автомобиль",
-        "price": 14.999.000
+        "price": 14999000
     },
     {
         "id": 7,
         "qty": 11,
         "name": "Lexus ES",
         "category": "автомобиль",
-        "price": 4.090.300
+        "price": 4090300
     },
     {
         "id": 8,
         "qty": 17,
-        "name": "Opel Insigma ",
+        "name": "Opel Insigma",
         "category": "автомобиль",
-        "price": 1.700.000
+        "price": 1700000
     },
     {
         "id": 9,
         "qty": 11,
         "name": "Jaguar ХF 2",
         "category": "автомобиль",
-        "price": 5.200.000
+        "price": 5200000
+    },
+    {
+        "id": 10,
+        "qty": 21,
+        "name": "Sintec",
+        "category": "моторное масло",
+        "price": 2520
+    },
+    {
+        "id": 11,
+        "qty": 11,
+        "name": "X-cess",
+        "category": "моторное масло",
+        "price": 6427
+    },
+    {
+        "id": 12,
+        "qty": 9,
+        "name": "Lavr GT",
+        "category": "моторное масло",
+        "price": 4867
+    },
+    {
+        "id": 13,
+        "qty": 10,
+        "name": "Shell Helix Ultra",
+        "category": "моторное масло",
+        "price": 3471
     }
 ]

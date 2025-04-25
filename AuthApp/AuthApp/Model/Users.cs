@@ -14,7 +14,6 @@ namespace AuthApp.Model
         [JsonPropertyName("fullname")]
         public string Fullname { get; set; }
 
-        [JsonPropertyName("role")]
-        public UserRole Role { get; set; }
+       
     }
 }
